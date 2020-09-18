@@ -27,6 +27,6 @@ https://github.com/sparklemotion/nokogiri
 bastard books
 http://ruby.bastardsbook.com/chapters/html-parsing/
 
-## Avec ce repo
+## Avec ce repo (branché sur Nostalgie)
 
 migrez la table, bundle install, lancez le server local et ouvrez votre navigateur web !
